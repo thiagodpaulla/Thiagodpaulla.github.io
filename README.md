@@ -2,7 +2,8 @@
 
 # Olá e seja bem vindo ao  meu repositório
 
-## Este é o repositorio do meu protifório, fique a vontade para interagir com o projeto no link:
+## Este é o repositorio do meu protifório, onde posto meus estudos, trabalhos e projetos.
+## Fique a vontade para interagir com o projeto no link:
 https://thiagodpaulla.github.io/
 
 ## Curtiu? entre em contato e vamos conversar !
