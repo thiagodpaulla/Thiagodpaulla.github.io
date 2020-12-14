@@ -11,8 +11,8 @@ main {
     display: flex;
     flex-direction: column;
     background: rgb(216, 215, 221);
-    width: 600px;
-    height: 600px;
+    width: 800px;
+    height: 750px;
     align-items: center;
     justify-content: space-evenly;
     border-radius: 20px;
@@ -32,7 +32,7 @@ main {
 
 
 button{
-    width: 300px;
+    width: 400px;
     height: 40px;
     font: bold 1.2rem serif;
     background: rgb(197, 182, 182);
