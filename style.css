@@ -25,7 +25,7 @@ body{
     
     .container {
         
-        width: 100vw;
+        width: 80vw;
         height: 100px;   
         margin: 0 auto; 
         display: flex;
@@ -33,10 +33,11 @@ body{
         align-items: center;
         align-items: center;
         justify-content: space-around;
-        gap: 15px;    
+        gap: 35px;    
     }
 
 button{
+    align-items: flex-start;
     font-size: arial;
     font-size: 16px;
     text-transform: uppercase;
@@ -52,13 +53,23 @@ button{
 
     
 }
-
+body {
+    text-align: center;
+    color:black;
+    box-shadow: black;
+    margin-top: 50px;
+    padding: 50px;
+    font-size: 30px;
+    
+}
 button:hover
 {
     background:white ;
+    
    }
 
 button:active{
+    text-align: center;
     position:relative; 
     top:5px;
     box-shadow: none;
