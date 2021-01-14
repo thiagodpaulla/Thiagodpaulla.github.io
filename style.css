@@ -8,6 +8,15 @@ body{
     background-size: auto;   
     }
 
+header
+{
+    font-size: calc(2vw + 15px);
+    text-shadow: 0 0 10px white,
+                 0 0 10px white,
+                 0 0 10px white
+
+}
+
 
 .title {
     background-image: url('./img/HD-wallpaper-theres-no-place-like-127.0.0.1-poster\,-triple-.jpg'); 
@@ -17,9 +26,9 @@ body{
     color: whitesmoke;
     margin: 10vh auto;
     font-size: calc(2vw + 15px);
-    text-shadow: 0 0 10px black,
-                 0 0 10px black,
-                 0 0 10px black;
+    text-shadow: 0 0 10px white,
+                 0 0 10px white,
+                 0 0 10px white;
     }
     
     
